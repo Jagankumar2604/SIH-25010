@@ -41,8 +41,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-![alt text](26.jpg)
-A smart, farmer-friendly advisory system will deliver personalized crop, soil, and weather insights through a multilingual mobile app and voice-enabled chatbot. By integrating pest detection, market price updates, and predictive alerts, it will help small farmers boost productivity, cut input costs, and practice sustainable, climate-resilient agriculture.
+![alt text](26.jpg)clear
 
 ## Technical Approach
 The solution uses AI and ML models for crop recommendation, yield prediction, and pest/disease detection via image recognition. IoT sensors monitor soil moisture, pH, and nutrients, while cloud-based mobile apps deliver real-time weather alerts and market updates. Multilingual NLP chatbots with voice support enable low-literate farmers, and feedback loops ensure adaptive, data-driven, sustainable agriculture.
