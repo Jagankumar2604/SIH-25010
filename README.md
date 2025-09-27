@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27.09.2025
+## Register Number:25012671
+## Name:V.Jagan kumar
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,20 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+![alt text](26.jpg)
+A smart, farmer-friendly advisory system will deliver personalized crop, soil, and weather insights through a multilingual mobile app and voice-enabled chatbot. By integrating pest detection, market price updates, and predictive alerts, it will help small farmers boost productivity, cut input costs, and practice sustainable, climate-resilient agriculture.
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+The solution uses AI and ML models for crop recommendation, yield prediction, and pest/disease detection via image recognition. IoT sensors monitor soil moisture, pH, and nutrients, while cloud-based mobile apps deliver real-time weather alerts and market updates. Multilingual NLP chatbots with voice support enable low-literate farmers, and feedback loops ensure adaptive, data-driven, sustainable agriculture.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+The solution is technically feasible using existing AI, ML, IoT, and cloud technologies, with mobile platforms enabling wide rural reach. Economically viable, it reduces input costs, increases yields, and improves market access for small farmers. Scalable and sustainable, it supports data-driven, climate-resilient agriculture
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Increased crop yield through AI-based crop and soil advisory.
+Reduced input costs via optimized fertilizer and pesticide guidance.
+Early pest/disease detection with image recognition models.
+Empowered small farmers with voice-enabled multilingual support
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+https://www.smartagriculture.gov.in/farmer-advisory
